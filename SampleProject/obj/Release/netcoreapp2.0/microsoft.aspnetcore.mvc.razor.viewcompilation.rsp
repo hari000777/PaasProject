@@ -1,0 +1,12 @@
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SampleProject
+--content-root=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\Home\About.cshtml
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\Home\Contact.cshtml
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\Home\Index.cshtml
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\Shared\Error.cshtml
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\Shared\_Layout.cshtml
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\_ViewImports.cshtml
+--file=C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\Views\_ViewStart.cshtml

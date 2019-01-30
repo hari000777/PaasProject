@@ -1,0 +1,12 @@
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\bin\Release\netcoreapp2.0\SampleProject.deps.json
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\bin\Release\netcoreapp2.0\SampleProject.runtimeconfig.json
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\bin\Release\netcoreapp2.0\SampleProject.runtimeconfig.dev.json
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\bin\Release\netcoreapp2.0\SampleProject.dll
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\bin\Release\netcoreapp2.0\SampleProject.pdb
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\obj\Release\netcoreapp2.0\SampleProject.csprojAssemblyReference.cache
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\obj\Release\netcoreapp2.0\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\obj\Release\netcoreapp2.0\SampleProject.AssemblyInfoInputs.cache
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\obj\Release\netcoreapp2.0\SampleProject.AssemblyInfo.cs
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\obj\Release\netcoreapp2.0\SampleProject.dll
+C:\Users\hariprasadh.ajith\source\repos\SampleProject\SampleProject\obj\Release\netcoreapp2.0\SampleProject.pdb
